@@ -35,6 +35,8 @@ You may do so in any reasonable manner, but not in any way that suggests that th
 ## Exceptions
 
 - Source code may be distributed under a different license, as specified in the corresponding directory or file.
+- The EGADE brand identity used in these materials (symbol, institutional colors, typography) is adapted from the official Tecnológico de Monterrey brand and is not covered by this license.
+- The SAiFE project artifacts (architecture, database schema, brand system, and UX prototype) are the property of Slimrack SAS and are not covered by this license.
 - Third-party materials included in this repository remain the property of their respective copyright holders and are subject to their own licenses.
 
 ## License
